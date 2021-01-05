@@ -1,0 +1,22 @@
+body {
+    background-color: #F61067;
+    color: white;
+}
+
+.navbar {
+    background-color: #5E239D;
+    color: white;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: gainsboro !important;
+}
+
+#btn-cta {
+    background-color: #5E239D;
+    color: white;
+}
